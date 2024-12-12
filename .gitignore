@@ -1,0 +1,16 @@
+.vscode
+__pycache__
+ix-dev/**/rendered
+.DS_Store
+
+ix-dev/test/test-lib/migrations
+out.yaml
+.coverage
+
+trains/community
+trains/enterprise
+trains/stable
+
+ix-dev/community
+ix-dev/enterprise
+ix-dev/stable
